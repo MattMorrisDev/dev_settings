@@ -1,0 +1,7 @@
+[alias]
+	s = status
+	br = branch
+	co = checkout
+[user]
+	name = Matt Morris
+	email = matt.m.morris0@gmail.com
